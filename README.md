@@ -1,6 +1,6 @@
 # 📈 StockVision with Forecasting – Project Overview & Workflow
 
- Live Demo: [livestockmarket.netlify.app](https://livestockmarket.netlify.app/)
+## Live Demo: [livestockmarket.netlify.app](https://livestockmarket.netlify.app/)
 
 StockVision with Forecasting is a modern, real-time stock market dashboard application that fetches and visualizes live stock data, while offering basic forecasting capabilities. It is designed as a full-stack learning project that demonstrates key principles of modern web development, API integration, forecasting logic, and deployment best practices.
 
