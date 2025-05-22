@@ -1,8 +1,8 @@
-#📈 StockVision with Forecasting – Project Overview & Workflow
+📈 #StockVision with Forecasting – Project Overview & Workflow
 
 StockVision with Forecasting is a modern, web-based dashboard for real-time stock analytics and basic forecasting. Designed for both learning and practical use, it showcases a blend of frontend engineering, data integration, and introductory predictive modeling. The project uses a clean UI, modular architecture, and best practices in React development.
 
-#🚀 Project Features
+🚀 #Project Features
 
 📈 Real-time stock data visualization (powered by Alpha Vantage API)
 🔮 Forecasting trends with simple statistical models (e.g., Moving Averages)
@@ -71,7 +71,7 @@ DEVELOPMENT.md: Dev workflow & architecture details
 REBUILD-GUIDE.md: Rebuild & redeploy instructions
 Why: Enhances collaboration, onboarding, and maintainability.
 
-#🧠 Why This Project Matters
+🧠 #Why This Project Matters
 
 Transparency: Clean structure with detailed documentation
 Reusability: Modular design enables easy feature extension
@@ -79,7 +79,7 @@ Real-World Relevance: Simulates real-time data integration and forecasting
 Portfolio-Ready: Demonstrates full-stack awareness and UI/UX skills
 Learning Tool: Perfect for grasping API integration, state management, and basic analytics in a frontend context
 
-#🌐 Community & Contributions
+🌐 #Community & Contributions
 
 📂 Issues Tab – Report bugs, suggest features
 🔀 Pull Requests – Welcomed! Please follow contribution guidelines
