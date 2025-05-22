@@ -1,0 +1,28 @@
+# Build settings
+[build]
+  # Directory to publish (output from build)
+  publish = "dist"
+  # Default build command
+  command = "npm run build"
+
+# Redirects and rewrites
+[[redirects]]
+  # SPA redirect rule
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+# Headers for all pages
+[[headers]]
+  # Define headers for all pages
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
+    Cache-Control = "public, max-age=3600"
+
+# Optimize asset caching
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
